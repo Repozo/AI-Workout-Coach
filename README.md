@@ -15,3 +15,25 @@ Pose Model - Teachable Machines - https://teachablemachine.withgoogle.com/train/
 Evaluation of PoseNet for applied AI-Fitness applications  -  https://medium.com/optima-ai/evaluation-of-posenet-for-applied-ai-in-fitness-applications-56de98d6c4e4
 
 
+#Diabetes-Tracker-App
+
+This will be a Flutter App leveraging the ML Models created and integrating it in the app.
+
+Base App is uploaded.
+
+### Resources
+
+- [Flutter Official Documentation](https://flutter.dev/docs)
+- [Flutter API Documentation](https://api.flutter.dev/)
+
+### How to Contribute
+
+ 1. Fork this Repository.
+ 2. Select an issue on which you want to work. Discuss with the mentors.
+ 3. Whenever submitting a Pull Request or adding a feature first create a seperate branch using
+    `git checkout -b <name-of-the-new-branch>`
+ 4. To commit changes:
+    `git commit -m "<a meaningful message>`
+ 5. To push the changes:
+    `git push origin <your-branch-name>`
+ 6. Create a Pull Request on the Repository and we will review it.
