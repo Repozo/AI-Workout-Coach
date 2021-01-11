@@ -7,6 +7,7 @@ Here are some links for your reference:
 Pose Detection  |  ML Kit  |  Google Developers - https://developers.google.com/ml-kit/vision/pose-detection
 
 Pose estimation  |  TensorFlow Lite -https://www.tensorflow.org/lite/models/pose_estimation/overview
+
 Pose Model - Teachable Machines - https://teachablemachine.withgoogle.com/train/pose
 
 3D Human Pose Estimation in AI Fitness Coach Apps (mobidev.biz) - https://mobidev.biz/blog/human-pose-estimation-ai-personal-fitness-coach
