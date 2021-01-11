@@ -15,7 +15,7 @@ Pose Model - Teachable Machines - https://teachablemachine.withgoogle.com/train/
 Evaluation of PoseNet for applied AI-Fitness applications  -  https://medium.com/optima-ai/evaluation-of-posenet-for-applied-ai-in-fitness-applications-56de98d6c4e4
 
 
-#Diabetes-Tracker-App
+# Diabetes-Tracker-App
 
 This will be a Flutter App leveraging the ML Models created and integrating it in the app.
 
